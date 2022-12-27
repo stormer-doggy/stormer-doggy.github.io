@@ -6,13 +6,4 @@
     "sha256_cert_fingerprints":
     ["19:D8:91:06:26:28:88:36:AD:BE:6D:8B:59:AD:77:1A:C5:A4:D7:C8:06:0F:41:B9:9B:14:86:90:11:3A:35:AF"]
   }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "jp.gr.java_conf.stormer.nicojkplayer",
-    "sha256_cert_fingerprints":
-    ["89:F3:F9:05:CC:D4:1C:56:CA:80:74:FA:F1:C4:8D:D6:C6:63:13:F2:66:12:74:79:3D:BB:9D:41:E3:15:EC:D5"]
-  }
 }]
